@@ -1,4 +1,4 @@
-# 🔵 Linux - Comandos de Usuários
+# Linux - Comandos de Usuários
 
 `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
 
