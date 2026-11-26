@@ -1,6 +1,6 @@
 # 🔵 Windows Server - Comandos de Usuários
 
-`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM` `#FSafer`
+`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM`
 
 > Comandos para Active Directory e gestão de contas no Windows Server.
 >
@@ -78,4 +78,4 @@
 >
 > ---
 >
-> `#Windows` `#UserCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Windows` `#UserCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

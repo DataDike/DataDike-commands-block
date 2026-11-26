@@ -6,7 +6,7 @@
 
 # Linux - Network Commands
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Commands for network configuration and manipulation that can affect connectivity and security.
 >
@@ -78,7 +78,7 @@
 >
 > # Linux - Comandos de Rede
 >
-> `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+> `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 >
 > > Comandos para configuração e manipulação de rede que podem afetar conectividade e segurança.
 > >
@@ -150,7 +150,7 @@
 > >
 > > # Linux - Comandos de Red
 > >
-> > `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+> > `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 > >
 > > > Comandos para configuración y manipulación de red que pueden afectar conectividad y seguridad.
 > > >
@@ -218,4 +218,4 @@
 > > >
 > > > ---
 > > >
-> > > `#Linux` `#NetworkCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> > > `#Linux` `#NetworkCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

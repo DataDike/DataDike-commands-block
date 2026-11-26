@@ -1,6 +1,6 @@
 # 🔵 Cisco IOS / IOS-XE - Comandos de ACL
 
-`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM` `#FSafer`
+`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM`
 
 > Comandos para Access Control Lists e segurança no Cisco IOS/IOS-XE.
 >
@@ -71,4 +71,4 @@
 >
 > ---
 >
-> `#Cisco` `#ACLCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Cisco` `#ACLCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

@@ -1,6 +1,6 @@
 # 🔵 IBM AIX - Comandos de Usuários
 
-`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM` `#FSafer`
+`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM`
 
 > Comandos para gestão de contas e segurança no IBM AIX.
 >
@@ -74,4 +74,4 @@
 >
 > ---
 >
-> `#AIX` `#UserCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#AIX` `#UserCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

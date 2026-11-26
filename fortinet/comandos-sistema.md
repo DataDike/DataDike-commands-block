@@ -1,6 +1,6 @@
 # 🟣 Fortinet FortiGate - Comandos de Sistema
 
-`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM` `#FSafer`
+`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM`
 
 > Comandos para configurações globais e administrativas do FortiGate.
 >
@@ -72,4 +72,4 @@
 >
 > ---
 >
-> `#Fortinet` `#SystemCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Fortinet` `#SystemCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

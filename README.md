@@ -1,6 +1,6 @@
 # PAM Command Catalog - DataDike
 
-Catálogo de comandos sensíveis organizados por **vendor** e **categoria** para uso na plataforma **PAM FSafer** da **DataDike**.
+Catálogo de comandos sensíveis organizados por **vendor** e **categoria** para uso na plataforma **DataDike PAM**.
 
 > Cada documento contém a lista completa de comandos com explicação + um bloco pronto para copiar todos os comandos de uma vez.
 >
@@ -89,10 +89,10 @@ Catálogo de comandos sensíveis organizados por **vendor** e **categoria** para
 > 1. **Tabela de Referência** — Comando + Descrição + Exemplo de uso
 > 2. 2. **Bloco para Copiar** — Todos os comandos em um bloco de código, prontos para copiar com um clique
 >   
->    3. ## Integração com PAM FSafer
+>    3. ## Integração com o DataDike PAM
 >   
->    4. Estes catálogos servem como referência para configurar as políticas de **Command Control** no PAM FSafer da DataDike.
+>    4. Estes catálogos servem como referência para configurar as políticas de **Command Control** no DataDike PAM.
 >   
 >    5. ---
 >
->    6. `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#FSafer` `#CyberSecurity` `#InfoSec` `#CommandControl` `#ZeroTrust`
+>    6. `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CyberSecurity` `#InfoSec` `#CommandControl` `#ZeroTrust`

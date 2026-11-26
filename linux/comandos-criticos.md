@@ -6,7 +6,7 @@
 
 # Linux - Critical Commands
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Destructive and irreversible commands that can compromise the entire operating system.
 
@@ -78,7 +78,7 @@ poweroff -f
 
 # Linux - Comandos Críticos
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Comandos destrutivos e irreversíveis que podem comprometer todo o sistema operacional.
 
@@ -150,7 +150,7 @@ poweroff -f
 
 # Linux - Comandos Críticos
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Comandos destructivos e irreversibles que pueden comprometer todo el sistema operativo.
 
@@ -218,4 +218,4 @@ poweroff -f
 
 ---
 
-`#Linux` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+`#Linux` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

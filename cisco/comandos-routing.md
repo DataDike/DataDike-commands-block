@@ -1,6 +1,6 @@
 # 🟢 Cisco IOS / IOS-XE - Comandos de Routing
 
-`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM` `#FSafer`
+`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM`
 
 > Comandos para protocolos de roteamento e rotas no Cisco IOS/IOS-XE.
 >
@@ -72,4 +72,4 @@
 >
 > ---
 >
-> `#Cisco` `#RoutingCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Cisco` `#RoutingCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

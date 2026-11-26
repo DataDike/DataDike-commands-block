@@ -1,6 +1,6 @@
 # 🟠 IBM AIX - Comandos de LVM
 
-`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM` `#FSafer`
+`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM`
 
 > Comandos para Logical Volume Manager e storage no IBM AIX.
 >
@@ -78,4 +78,4 @@
 >
 > ---
 >
-> `#AIX` `#LVMCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#AIX` `#LVMCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

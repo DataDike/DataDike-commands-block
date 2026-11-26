@@ -1,6 +1,6 @@
 # 🔵 HP-UX (HPE) - Comandos de Usuários
 
-`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM` `#FSafer`
+`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM`
 
 > Comandos para gestão de contas e segurança no HP-UX.
 >
@@ -74,4 +74,4 @@
 >
 > ---
 >
-> `#HPUX` `#UserCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#HPUX` `#UserCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

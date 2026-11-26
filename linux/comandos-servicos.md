@@ -6,7 +6,7 @@
 
 # Linux - Service Commands
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Commands for controlling services, processes and system daemons.
 
@@ -88,7 +88,7 @@ lsof -ti
 
 # Linux - Comandos de Serviços
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Comandos para controle de serviços, processos e daemons do sistema.
 
@@ -170,7 +170,7 @@ lsof -ti
 
 # Linux - Comandos de Servicios
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Comandos para control de servicios, procesos y daemons del sistema.
 
@@ -248,9 +248,9 @@ lsof -ti
 
 ---
 
-`#Linux` `#ServiceCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`# 🟣 Linux - Comandos de Serviços
+`#Linux` `#ServiceCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`# 🟣 Linux - Comandos de Serviços
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Comandos para controle de serviços, processos e daemons do sistema.
 >
@@ -330,4 +330,4 @@ lsof -ti
 >
 > ---
 >
-> `#Linux` `#ServiceCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Linux` `#ServiceCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

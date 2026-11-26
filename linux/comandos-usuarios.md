@@ -1,6 +1,6 @@
 # Linux - Comandos de Usuários
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Comandos para gestão de contas de usuário, grupos e permissões do sistema.
 >
@@ -80,4 +80,4 @@
 >
 > ---
 >
-> `#Linux` `#UserCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Linux` `#UserCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

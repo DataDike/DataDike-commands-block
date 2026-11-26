@@ -1,6 +1,6 @@
 # 🟢 Fortinet FortiGate - Comandos de VPN
 
-`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM` `#FSafer`
+`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM`
 
 > Comandos para configuração e gestão de VPNs no FortiGate.
 >
@@ -60,4 +60,4 @@
 >
 > ---
 >
-> `#Fortinet` `#VPNCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Fortinet` `#VPNCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

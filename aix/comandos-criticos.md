@@ -1,6 +1,6 @@
 # 🔴 IBM AIX - Comandos Críticos
 
-`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM` `#FSafer`
+`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM`
 
 > Comandos destrutivos e irreversíveis no IBM AIX.
 >
@@ -60,4 +60,4 @@
 >
 > ---
 >
-> `#AIX` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#AIX` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

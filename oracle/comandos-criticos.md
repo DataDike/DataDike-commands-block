@@ -1,6 +1,6 @@
 # 🔴 Oracle Database - Comandos Críticos
 
-`#Oracle` `#OracleDB` `#OracleDatabase` `#SQL` `#PLSQL` `#DBA` `#DataDike` `#PAM` `#FSafer`
+`#Oracle` `#OracleDB` `#OracleDatabase` `#SQL` `#PLSQL` `#DBA` `#DataDike` `#PAM`
 
 > Comandos destrutivos e irreversíveis que podem comprometer todo o banco de dados Oracle.
 >
@@ -60,4 +60,4 @@
 >
 > ---
 >
-> `#Oracle` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Oracle` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

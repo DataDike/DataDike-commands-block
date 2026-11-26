@@ -1,6 +1,6 @@
 # 🟠 HP-UX (HPE) - Comandos de Rede
 
-`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM` `#FSafer`
+`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM`
 
 > Comandos para configuração de rede e interfaces no HP-UX.
 >
@@ -62,4 +62,4 @@
 >
 > ---
 >
-> `#HPUX` `#NetworkCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#HPUX` `#NetworkCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

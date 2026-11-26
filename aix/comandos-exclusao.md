@@ -1,6 +1,6 @@
 # 🟡 IBM AIX - Comandos de Exclusão
 
-`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM` `#FSafer`
+`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM`
 
 > Comandos para remoção de arquivos e dados no IBM AIX.
 >
@@ -59,4 +59,4 @@
 >
 > ---
 >
-> `#AIX` `#DeletionCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#AIX` `#DeletionCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

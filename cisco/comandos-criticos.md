@@ -1,6 +1,6 @@
 # 🔴 Cisco IOS / IOS-XE - Comandos Críticos
 
-`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM` `#FSafer`
+`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM`
 
 > Comandos de erase, reload e operações destrutivas no Cisco IOS/IOS-XE.
 >
@@ -65,4 +65,4 @@
 >
 > ---
 >
-> `#Cisco` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Cisco` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

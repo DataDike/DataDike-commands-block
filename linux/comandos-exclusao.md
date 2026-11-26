@@ -6,7 +6,7 @@
 
 # Linux - Deletion Commands
 
-`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+`#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 
 > Commands for removing files, directories and data that can cause information loss.
 >
@@ -73,7 +73,7 @@
 >
 > # Linux - Comandos de Exclusão
 >
-> `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+> `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 >
 > > Comandos para remoção de arquivos, diretórios e dados que podem causar perda de informações.
 > >
@@ -140,7 +140,7 @@
 > >
 > > # Linux - Comandos de Eliminación
 > >
-> > `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM` `#FSafer`
+> > `#Linux` `#Ubuntu` `#RedHat` `#RHEL` `#CentOS` `#Debian` `#SUSE` `#Bash` `#Shell` `#DataDike` `#PAM`
 > >
 > > > Comandos para eliminación de archivos, directorios y datos que pueden causar pérdida de información.
 > > >
@@ -203,4 +203,4 @@
 > > >
 > > > ---
 > > >
-> > > `#Linux` `#DeletionCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> > > `#Linux` `#DeletionCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

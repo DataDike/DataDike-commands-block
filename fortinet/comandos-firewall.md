@@ -1,6 +1,6 @@
 # 🟠 Fortinet FortiGate - Comandos de Firewall
 
-`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM` `#FSafer`
+`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM`
 
 > Comandos para políticas, regras e objetos de firewall no FortiGate.
 >
@@ -62,4 +62,4 @@
 >
 > ---
 >
-> `#Fortinet` `#FirewallCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Fortinet` `#FirewallCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

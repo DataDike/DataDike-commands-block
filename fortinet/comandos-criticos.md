@@ -1,6 +1,6 @@
 # 🔴 Fortinet FortiGate - Comandos Críticos
 
-`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM` `#FSafer`
+`#Fortinet` `#FortiGate` `#FortiOS` `#Firewall` `#NGFW` `#FortinetSecurity` `#DataDike` `#PAM`
 
 > Comandos de factory reset, format e operações destrutivas no FortiGate.
 >
@@ -58,4 +58,4 @@
 >
 > ---
 >
-> `#Fortinet` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Fortinet` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

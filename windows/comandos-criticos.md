@@ -1,6 +1,6 @@
 # 🔴 Windows Server - Comandos Críticos
 
-`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM` `#FSafer`
+`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM`
 
 > Comandos de format, diskpart e operações destrutivas no Windows Server.
 >
@@ -66,4 +66,4 @@
 >
 > ---
 >
-> `#Windows` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Windows` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

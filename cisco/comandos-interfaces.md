@@ -1,6 +1,6 @@
 # 🟠 Cisco IOS / IOS-XE - Comandos de Interfaces
 
-`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM` `#FSafer`
+`#Cisco` `#CiscoIOS` `#CiscoIOSXE` `#CiscoRouter` `#CiscoSwitch` `#CiscoNetworking` `#DataDike` `#PAM`
 
 > Comandos para configuração e shutdown de interfaces no Cisco IOS/IOS-XE.
 >
@@ -70,4 +70,4 @@
 >
 > ---
 >
-> `#Cisco` `#InterfaceCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Cisco` `#InterfaceCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

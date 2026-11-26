@@ -1,6 +1,6 @@
 # 🟡 Oracle Database - Comandos de Exclusão
 
-`#Oracle` `#OracleDB` `#OracleDatabase` `#SQL` `#PLSQL` `#DBA` `#DataDike` `#PAM` `#FSafer`
+`#Oracle` `#OracleDB` `#OracleDatabase` `#SQL` `#PLSQL` `#DBA` `#DataDike` `#PAM`
 
 > Comandos DROP, DELETE e TRUNCATE para remoção de objetos e dados no Oracle Database.
 >
@@ -71,4 +71,4 @@
 >
 > ---
 >
-> `#Oracle` `#DeletionCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Oracle` `#DeletionCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

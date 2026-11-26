@@ -1,6 +1,6 @@
 # 🟣 Windows Server - Comandos de Serviços
 
-`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM` `#FSafer`
+`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM`
 
 > Comandos para controle de serviços e processos no Windows Server.
 >
@@ -72,4 +72,4 @@
 >
 > ---
 >
-> `#Windows` `#ServiceCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Windows` `#ServiceCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

@@ -1,6 +1,6 @@
 # 🔴 HP-UX (HPE) - Comandos Críticos
 
-`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM` `#FSafer`
+`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM`
 
 > Comandos destrutivos e irreversíveis no HP-UX.
 >
@@ -68,4 +68,4 @@
 >
 > ---
 >
-> `#HPUX` `#CriticalCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#HPUX` `#CriticalCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

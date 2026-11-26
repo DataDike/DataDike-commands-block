@@ -1,6 +1,6 @@
 # 🟢 IBM AIX - Comandos de Rede
 
-`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM` `#FSafer`
+`#IBM` `#AIX` `#IBMAIX` `#PowerSystems` `#UNIX` `#IBMPower` `#DataDike` `#PAM`
 
 > Comandos para configuração de rede e interfaces no IBM AIX.
 >
@@ -66,4 +66,4 @@
 >
 > ---
 >
-> `#AIX` `#NetworkCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#AIX` `#NetworkCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

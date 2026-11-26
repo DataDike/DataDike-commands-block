@@ -1,6 +1,6 @@
 # 🟠 Windows Server - Comandos de Rede
 
-`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM` `#FSafer`
+`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM`
 
 > Comandos para configuração de rede e firewall no Windows Server.
 >
@@ -70,4 +70,4 @@
 >
 > ---
 >
-> `#Windows` `#NetworkCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Windows` `#NetworkCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

@@ -1,6 +1,6 @@
 # 🟡 HP-UX (HPE) - Comandos de Exclusão
 
-`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM` `#FSafer`
+`#HPE` `#HPUX` `#HewlettPackardEnterprise` `#HPEServers` `#UNIX` `#DataDike` `#PAM`
 
 > Comandos para remoção de arquivos e dados no HP-UX.
 >
@@ -58,4 +58,4 @@
 >
 > ---
 >
-> `#HPUX` `#DeletionCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#HPUX` `#DeletionCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

@@ -1,6 +1,6 @@
 # 🟡 Windows Server - Comandos de Exclusão
 
-`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM` `#FSafer`
+`#Windows` `#WindowsServer` `#PowerShell` `#CMD` `#ActiveDirectory` `#Microsoft` `#DataDike` `#PAM`
 
 > Comandos Remove-Item, del e remoção de dados no Windows Server.
 >
@@ -64,4 +64,4 @@
 >
 > ---
 >
-> `#Windows` `#DeletionCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Windows` `#DeletionCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`

@@ -1,6 +1,6 @@
 # 🔵 Oracle Database - Comandos de Permissões
 
-`#Oracle` `#OracleDB` `#OracleDatabase` `#SQL` `#PLSQL` `#DBA` `#DataDike` `#PAM` `#FSafer`
+`#Oracle` `#OracleDB` `#OracleDatabase` `#SQL` `#PLSQL` `#DBA` `#DataDike` `#PAM`
 
 > Comandos GRANT, REVOKE e controle de acesso no Oracle Database.
 >
@@ -84,4 +84,4 @@
 >
 > ---
 >
-> `#Oracle` `#PermissionCommands` `#DataDike` `#PAM` `#FSafer` `#PrivilegedAccessManagement` `#CommandControl`
+> `#Oracle` `#PermissionCommands` `#DataDike` `#PAM` `#PrivilegedAccessManagement` `#CommandControl`
